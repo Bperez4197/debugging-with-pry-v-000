@@ -1,3 +1,3 @@
 def plus_two(num)
-			return "#{num} + 2"
+			return num = gets.strip + 2
 end
